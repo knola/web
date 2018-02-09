@@ -9,3 +9,6 @@ handlers:
 - url: /microdemocracy
   static_files: microdemocracy.html
   upload: microdemocracy.html
+- url: /process
+  static_files: process.html
+  upload: process.html
