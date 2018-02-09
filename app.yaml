@@ -12,3 +12,6 @@ handlers:
 - url: /process
   static_files: process.html
   upload: process.html
+- url: /_resources/logo.svg
+  static_files: logo.svg
+  upload: logo.svg
