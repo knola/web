@@ -4,14 +4,13 @@ threadsafe: true
 
 handlers:
 - url: /
-  static_files: _build/index.html
-  upload: _build/index.html
-- url: /microdemocracy
-  static_files: _build/microdemocracy.html
-  upload: _build/microdemocracy.html
-- url: /process
-  static_files: _build/process.html
-  upload: _build/process.html
-- url: /_resources/logo.svg
-  static_files: logo.svg
-  upload: logo.svg
+  static_files: _public/index
+  upload: _public/index
+  mime_type: text/html
+- url: /([^./]*)
+  static_files: _public/\1
+  upload: _public/([^./]*)
+  mime_type: text/html
+- url: /_resources
+  static_dir: _public/_resources
+
