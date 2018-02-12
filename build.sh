@@ -14,7 +14,7 @@ for file in *.md; do
   base=${file%.md}
   doc=_build/${base}.html
   cat header.html > $doc
-  marked $file >> $doc
+  ./marked $file >> $doc
   cat footer.html >> $doc
   ln $doc _public/$base 
 done
