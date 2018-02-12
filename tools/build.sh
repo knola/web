@@ -1,8 +1,10 @@
 #!/bin/bash
-# Convert markdown to HTML, prior to deploy.sh. Requires `marked':
-# https://www.npmjs.com/package/marked
+# Render markdown and prepare public file tree, prior to deploy.sh.
+# Requires Node.js for marked tool: https://nodejs.org/en/download/
 
-if [[ ! -f logo.svg ]]; then
+set -e
+
+if [[ ! -d content ]]; then
   echo >&2 "Unable to find Knola sources"
   exit 1
 fi
@@ -14,13 +16,13 @@ fi
 rm -rf _public
 mkdir -p _build _public _public/_resources
 
-for file in *.md; do
-  base=${file%.md}
+for file in content/*.md; do
+  base=$(basename ${file%.md})
   doc=_build/${base}.html
-  cat header.html > $doc
+  cat content/header.html > $doc
   tools/marked $file >> $doc
-  cat footer.html >> $doc
+  cat content/footer.html >> $doc
   ln $doc _public/$base 
 done
 
-ln logo.svg _public/_resources/logo.svg 
+ln content/logo.svg _public/_resources/logo.svg 
