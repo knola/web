@@ -26,3 +26,4 @@ for file in content/*.md; do
 done
 
 ln content/logo.svg _public/_resources/logo.svg 
+ln content/style.css _public/_resources/style.css
