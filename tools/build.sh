@@ -19,7 +19,12 @@ mkdir -p _build _public _public/_resources
 for file in content/*.md; do
   base=$(basename ${file%.md})
   doc=_build/${base}.html
-  cat content/header.html > $doc
+  path=$base
+  if [[ "$base" == "index" ]]; then
+    path=""
+  fi
+
+  sed -e "s,CANONICAL,https://knola.co/$path," content/header.html > $doc
   tools/marked $file >> $doc
   cat content/footer.html >> $doc
   ln $doc _public/$base 
