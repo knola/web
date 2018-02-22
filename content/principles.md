@@ -1,0 +1,38 @@
+# Principles
+
+<table class="table">
+<tr>
+<td>
+<h2>Authenticity</h2>
+
+<p>Decisions reflect the genuine wishes of the group, and resist influence from politics, lobbying, and campaigns.</p>
+
+<p>We achieve this by unlocking direct input. Every participant contributes to a random selection of decisions. So each decision consists of a natural cross-section of people's motivations.</p>
+
+<p>In governments, this shifts power from legislators to their constituents. Without the baggage of elections or resulting bias, we can finally make the best choices.</p>
+</td>
+<td>
+<h2>Information</h2>
+
+<p>Wise decisions are powered by knowledge and foresight.</p>
+
+<p>Ballots are strongly influenced by voters' reactions to the news. Reacting is natural, but reasoning leads to better outcomes. Data is the main ingredient in reasoning, therefore Knola's whole process revolves around it.</p>
+
+<p>First, participants help identify the most important questions. Then researchers collaborate to gather facts, analysts compete to produce the best predictions, and presenters compete to summarize with least bias. The result is enlightened, rational participants, and distinctly smart choices.</p>
+</td>
+<td>
+<h2>Invention</h2>
+</td>
+</tr>
+<tr>
+<td>
+<h2>Inclusion</h2>
+</td>
+<td>
+<h2>Refinement</h2>
+</td>
+<td>
+<h2>Immediacy</h2>
+</td>
+</tr>
+</table>

@@ -95,6 +95,7 @@ table {
 .table {
   width: 100%;
   margin-bottom: 1.4em;
+  table-layout: fixed;
 }
 
 .table th,
@@ -299,10 +300,6 @@ img {
 .logo {
   height: 40px;
   padding-bottom: 5px;
-}
-
-.table {
-  width: auto;
 }
 
 @media(min-width:1200px) {
