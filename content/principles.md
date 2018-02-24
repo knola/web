@@ -5,18 +5,20 @@
 <td>
 <h2>Authenticity</h2>
 
-<p>Decisions reflect the genuine wishes of the group, and resist influence from politics, lobbying, and campaigns.</p>
+<p>Decisions reflect the genuine wishes of the group.</p>
 
-<p>We achieve this by unlocking direct input. Every participant contributes to a random selection of decisions. So each decision consists of a natural cross-section of people's motivations.</p>
+<p>In contemporary democracies, campaign finance pressure creates perverse incentives for candidates, and makes them vulnerable to influence from lobbyists. Meanwhile news media drives focus to sensational topics and away from important, but boring topics. The result is biased decisions, leaving voters with a persistent feeling of frustration.</p>
 
-<p>In governments, this shifts power from legislators to their constituents. Without the baggage of elections or resulting bias, we can finally make the best choices.</p>
+<p>Knola achieves authenticity by unlocking direct input. Every participant contributes to a random selection of decisions. So each decision consists of a natural cross-section of people's motivations. This structure naturally resists influence from politics and lobbying.</p>
+
+<p>This shifts power from legislators to their constituents. Without the baggage of elections or resulting bias, we can finally make the best choices.</p>
 </td>
 <td>
 <h2>Information</h2>
 
 <p>Wise decisions are powered by knowledge and foresight.</p>
 
-<p>Ballots are strongly influenced by voters' reactions to the news. Reacting is natural, but reasoning leads to better outcomes. Data is the main ingredient in reasoning, therefore Knola's whole process revolves around it.</p>
+<p>In modern elections, ballots are strongly influenced by voters' reactions to the news. Reacting is natural, but reasoning leads to better outcomes. Data is the main ingredient in reasoning, therefore Knola's whole process revolves around it.</p>
 
 <p>First, participants help identify the most important questions. Then researchers collaborate to gather facts, analysts compete to produce the best predictions, and presenters compete to summarize with least bias. The result is enlightened, rational participants, and distinctly smart choices.</p>
 </td>
