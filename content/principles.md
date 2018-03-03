@@ -14,7 +14,7 @@
 <p>This shifts power from legislators to their constituents. Without the baggage of elections or resulting bias, we can finally make the best choices.</p>
 </td>
 <td>
-<h2>Information</h2>
+<h2>Enlightenment</h2>
 
 <p>Decisions are powered by knowledge and foresight.</p>
 
@@ -47,10 +47,12 @@
 <p>Knola offers tools to fix this, allowing the scope and weight of relevant opinions to be determined for each decision. So the significantly impacted people carry the most influence, although indirectly affected people also contribute proportional input. The result is consistently humane decisions, which balance the interests of fractions and the whole.</p>
 </td>
 <td>
-<h2>Refinement</h2>
+<h2>Improvement</h2>
+
+<!-- Gradually improve the quality of information and the accuracy of predictions over time. -->
 </td>
 <td>
-<h2>Immediacy</h2>
+<h2>Specificity</h2>
 </td>
 </tr>
 </table>
@@ -58,4 +60,5 @@
 <!--
 Possible other principles:
 Experimentation
+Transparency
 -->
