@@ -6,4 +6,4 @@ if ! type gcloud > /dev/null; then
   exit 1
 fi
 
-gcloud app deploy app.yaml --project elliptical-tree-187121
+gcloud app deploy _public/app.yaml --project elliptical-tree-187121

@@ -32,3 +32,4 @@ done
 
 ln content/logo.svg _public/_resources/logo.svg 
 ln content/style.css _public/_resources/style.css
+ln app.yaml _public/app.yaml
