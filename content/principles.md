@@ -38,7 +38,13 @@
 </tr>
 <tr>
 <td>
-<h2>Inclusion</h2>
+<h2>Proximity</h2>
+
+<p>Decisions are made by those impacted.</p>
+
+<p>Democracies give equal say to every voter on every issue. However, on most issues, some people are much more affected than others. Thus this allocation of authority often leads to oppressive policies. State and local governments receive some relief from this, by being allowed to decide on proximate issues. However, their powers are divided along rigid geographic boundaries, which are growing less useful as communities become more interconnected.</p>
+
+<p>Knola offers tools to fix this, allowing the scope and weight of relevant opinions to be determined for each decision. So the significantly impacted people carry the most influence, although indirectly affected people also contribute proportional input. The result is consistently humane decisions, which balance the interests of fractions and the whole.</p>
 </td>
 <td>
 <h2>Refinement</h2>
