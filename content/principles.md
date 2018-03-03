@@ -26,6 +26,14 @@
 </td>
 <td>
 <h2>Invention</h2>
+
+<p>Evolution strengthens the ideas behind decisions.</p>
+
+<p>Lawmaking is a creative process, slowly condensing many raw ideas into consensus policy. However, in contemporary democracies, legislation remains primitive, because lawmakers don't have enough time and space to innovate well. They briefly debate a few obvious ideas, vote, and then move to the next issue.</p>
+
+<p>With Knola decisions draw on creativity from a much larger group of people, including both regular participants and specialists who focus on refining ideas in difficult areas. Participants provide their concerns and ideas for each proposal. If a proposal is unsuccessful, designers can use this information to devise a more popular revision.</p>
+
+<p>Over time, this refinement process eventually produces downright ingenious ideas.</p> 
 </td>
 </tr>
 <tr>
