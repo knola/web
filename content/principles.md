@@ -61,4 +61,5 @@
 Possible other principles:
 Experimentation
 Transparency
+Participation - easy for every member of the community to take part.
 -->
