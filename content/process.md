@@ -2,7 +2,7 @@
 
 # Decision Process
 
-Proposals move through various stages from conception to decision. Throughout the process, Knola connects participants, and facilitates the work.
+Knola facilitates a process for converting proposals into decisions. Throughout the process, Knola connects participants and supports their work.
 
 ## 0. Conception
 
@@ -10,7 +10,7 @@ A proposal begins when a participant volunteers to manage a particular decision.
 
 ## 1. Research
 
-The decision manager arranges the gathering of facts, with the goal of answering most of the factual questions of volunteers evaluating the proposal. For small decisions, they might do this work themselves. For large decisions, they might enlist a whole team of volunteers or hired investigators.
+The decision manager arranges the gathering of facts about the past and present, with the goal of answering most of the factual questions of volunteers evaluating the proposal. For small decisions, the manager might do this work themselves. Large decisions might call for a whole team of volunteers or hired investigators.
 
 ## 2. Analysis
 
@@ -20,7 +20,9 @@ Analysis is both helpful for making an initial decision, and for revisiting a de
 
 ## 3. Summarization
 
-Facts from research and predictions from analysis are condensed for presentation to evaluators. The presentation might be text, audio, or video. Ideal presentations fit easily into a person's attention span, so most evaluators should be able to absorb the information in 15 minutes. To eliminate bias from particularly important decisions, the decision manager might prepare multiple alternative presentations.
+Facts from research and predictions from analysis are condensed into a presentation for evaluators. The presentation might be text, audio, or video. Ideal presentations fit easily into a person's attention span, so most evaluators should be able to absorb the information in 15 minutes.
+
+To eliminate bias from particularly important decisions, independent presenters prepare multiple alternative versions. Biased presentations will produce significantly different outcomes from the rest, and thus will be discarded.
 
 ## 4. Refinement
 
@@ -28,4 +30,4 @@ A small group of volunteer evaluators considers presentations and provides feedb
 
 ## 5. Decision
 
-Evaluators absorb the refined presentations, and choose whether to support or obstruct the proposal. Knola records both the general inclination and stated reasons. For instance, an evaluator might explain that they prefer *not* to construct the bridge, because it would require cutting down too many nearby trees. These reasons help inform future alternative proposals, so the group can eventually find a popular idea.
+Evaluators review the refined presentations, and choose whether to support or oppose the proposal. Knola records both the general inclination and stated reasons. For instance, an evaluator might explain that they prefer *not* to construct the bridge, because it would require cutting down too many nearby trees. These reasons help inform future alternative proposals, so the group can eventually find a popular idea.
