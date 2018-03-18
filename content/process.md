@@ -6,7 +6,7 @@ Knola facilitates a process for converting proposals into decisions. Throughout 
 
 ## 0. Conception
 
-A proposal begins when a participant volunteers to manage a particular decision. It might be their own favorite idea, a popular suggestion from a group, or even randomly chosen from a hat. Ultimately stepping up is their own decision, and how they choose is up to them.
+A conceiver writes a description of the proposal and registers it with Knola. Any participant can request assignment as _decision manager_ for an open proposal. It might be their own favorite idea, a popular suggestion from a group, or even randomly chosen from a hat. Once the group agrees on proposal assignment, the new decision manager gets to work.
 
 ## 1. Research
 
@@ -30,4 +30,4 @@ A small group of volunteer evaluators considers presentations and provides feedb
 
 ## 5. Decision
 
-Evaluators review the refined presentations, and choose whether to support or oppose the proposal. Knola records both the general inclination and stated reasons. For instance, an evaluator might explain that they prefer *not* to construct the bridge, because it would require cutting down too many nearby trees. These reasons help inform future alternative proposals, so the group can eventually find a popular idea.
+Evaluators review the refined presentations, and choose whether to support or oppose the proposal. Knola records both the general inclination and stated reasons. For instance, an evaluator might explain that they prefer *not* to construct the bridge, because it would require cutting down too many nearby trees. These reasons help inform future alternative proposals, so the group can eventually find an acceptable idea.
