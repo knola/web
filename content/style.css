@@ -316,6 +316,10 @@ img {
   padding-bottom: 5px;
 }
 
+.tagline {
+  font-size: 1.5em;
+}
+
 @media(min-width:1200px) {
   .container,
   .navbar-fixed-top .container {
