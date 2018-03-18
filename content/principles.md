@@ -1,6 +1,6 @@
 # Principles
 
-<p>Six crucial elements characterize the Knola decision process. Some occur in existing governments, but are not emphasized as principles. In the descriptions below, <em>contemporary democracies</em>, <em>elections</em>, and <em>legislators</em> refer to those existing governments, particularly patterns of democracy common in developed countries. These are not present in the Knola model, and are described here purely to contrast the present with the proposed future.</p>
+<p>Six crucial elements characterize the Knola decision process. Some occur in existing governments, but are not emphasized as principles. In the descriptions below, <em>heirloom democracies</em>, <em>elections</em>, and <em>legislators</em> refer to contemporary governments, particularly patterns of democracy common in developed countries. These are not present in the Knola model, and are described here purely to contrast the present with the proposed future.</p>
 
 <div class="flex">
 <div class="triplet">
@@ -8,7 +8,7 @@
 
 <p>Decisions reflect genuine group desires.</p>
 
-<p>In contemporary democracies, campaign finance pressure creates perverse incentives for candidates, and makes them vulnerable to influence from lobbyists. Meanwhile news media drives focus to sensational topics and away from important, but boring issues. The result is biased decisions, leaving voters with a persistent feeling of frustration.</p>
+<p>In heirloom democracies, campaign finance pressure creates perverse incentives for candidates, and makes them vulnerable to influence from lobbyists. Meanwhile news media drives focus to sensational topics and away from important, but boring issues. The result is biased decisions, leaving voters with a persistent feeling of frustration.</p>
 
 <p>Knola achieves authenticity by unlocking direct input. Every participant contributes to a random selection of decisions. So each decision consists of a natural cross-section of people's motivations. This structure naturally resists influence from politics and lobbying.</p>
 
@@ -30,7 +30,7 @@
 
 <p>Evolution strengthens the ideas behind decisions.</p>
 
-<p>Lawmaking is a creative process, slowly condensing many raw ideas into consensus policy. However, in contemporary democracies, legislation remains primitive, because lawmakers don't have enough time and space to innovate well. They briefly debate a few obvious ideas, vote, and then move to the next issue.</p>
+<p>Lawmaking is a creative process, slowly condensing many raw ideas into consensus policy. However, in heirloom democracies, legislation remains primitive, because lawmakers don't have enough time and space to innovate well. They briefly debate a few obvious ideas, vote, and then move to the next issue.</p>
 
 <p>With Knola decisions draw on creativity from a much larger group of people, including both regular participants and specialists who focus on refining ideas in difficult areas. Participants provide their concerns and ideas for each proposal. If a proposal is unsuccessful, designers can use this information to devise a more popular revision.</p>
 
@@ -63,7 +63,7 @@
 
 <p>Mistakes are easily caught and corrected.</p>
 
-<p>Contemporary democracies are poorly protected from bogus perceptions. In both elections and legislatures, voting doesn't capture rationale, so it's difficult to know if results were based on misinformation. Even when the reasons can be found false, repairing the law is still a long, arduous struggle.</p>
+<p>Heirloom democracies are poorly protected from bogus perceptions. In both elections and legislatures, voting doesn't capture rationale, so it's difficult to know if results were based on misinformation. Even when the reasons can be found false, repairing the law is still a long, arduous struggle.</p>
 
 <p>With Knola, bad decisions are easily overturned. Except for anonymizing input from participants, all of the raw data is perpetually publicly available. This includes facts and predictions provided to participants, and their detailed thoughts before and after the presentation.</p>
 

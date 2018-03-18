@@ -1,5 +1,11 @@
 # Frequently Asked Questions
 
+## Terminology
+
+### What is an _heirloom democracy_?
+
+An heirloom democracy is one whose foundations were designed before modern technology, for instance the federal government of the United States.
+
 ## Intentions
 
 ### Are you calling for a revolution?
