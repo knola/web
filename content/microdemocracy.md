@@ -2,9 +2,9 @@
 
 # Microdemocracy
 
-Microdemocracy is the collection of Knola techniques applied at the national level. As we refine the idea, we will assign different version numbers. Currently we're working on version 2018.01.
+Microdemocracy is a system applying Knola techniques at the national level. As we refine the system, we will assign different version numbers. Currently we're working on version 2018.01.
 
-To understand how Microdemocracy works, let's consider how it differs from the contemporary political system in the United States.
+To understand how Microdemocracy works, let's consider how it differs from the political system in the United States.
 
 <table class="table table-striped table-bordered">
  <tr>
@@ -14,7 +14,7 @@ To understand how Microdemocracy works, let's consider how it differs from the c
  <tr>
   <td>
    <p>**Representative**</p>
-   Voters elect legislators, who record rules regulating government execution. Voters also elect a president, who oversees execution.
+   Voters elect legislators, who pass laws regulating government execution. Voters also elect a president, who oversees execution.
   </td>
   <td>
    <p>**Direct**</p>
@@ -38,7 +38,7 @@ To understand how Microdemocracy works, let's consider how it differs from the c
   </td>
   <td>
    <p>**Sampled**</p>
-   A statistical sample of the public participates in each decision, weighed by how much the choice impacts them.
+   A statistical sample of the public participates in each decision, weighted by how much the choice impacts them.
   </td>
  </tr>
  <tr>
@@ -63,4 +63,4 @@ To understand how Microdemocracy works, let's consider how it differs from the c
  </tr>
 </table>
 
-In some of these areas, the systems are similar if you compare legislators to participants. For instance, legislators are more research-based, particularly thanks to the Congressional Research Service. Also legislative bills are designed iteratively, particularly via the committee process. 
+In some of these areas, the systems are similar if you compare legislators to participants. For instance, legislators are more research-based, particularly thanks to the [Congressional Research Service](https://en.wikipedia.org/wiki/Congressional_Research_Service). Also legislative bills are designed iteratively, via the committee process. 
