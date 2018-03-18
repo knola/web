@@ -12,6 +12,10 @@ An heirloom democracy is one whose foundations were designed before modern techn
 
 No. We believe changes can and will be achieved gradually, most likely over decades.
 
+### Can anyone join in experiment development?
+
+Yes! Please just contact us at [team@knola.co](mailto:team@knola.co) to discuss. All of Knola's works are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), so you can reuse content even commercially.
+
 ## Principles
 
 ### Why not include an _accessibility_ principle?

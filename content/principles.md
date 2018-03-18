@@ -79,3 +79,5 @@
 Possible other principles:
 Experimentation
 -->
+
+Please contact [team@knola.co](mailto:team@knola.co) with comments or questions.
