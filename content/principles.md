@@ -2,9 +2,8 @@
 
 <p>Six crucial elements characterize the Knola decision process. Some occur in existing governments, but are not emphasized as principles. In the descriptions below, <em>contemporary democracies</em>, <em>elections</em>, and <em>legislators</em> refer to those existing governments, particularly patterns of democracy common in developed countries. These are not present in the Knola model, and are described here purely to contrast the present with the proposed future.</p>
 
-<table class="table">
-<tr>
-<td>
+<div class="flex">
+<div class="triplet">
 <h2>Authenticity</h2>
 
 <p>Decisions reflect genuine group desires.</p>
@@ -14,8 +13,8 @@
 <p>Knola achieves authenticity by unlocking direct input. Every participant contributes to a random selection of decisions. So each decision consists of a natural cross-section of people's motivations. This structure naturally resists influence from politics and lobbying.</p>
 
 <p>This shifts power from legislators to their constituents. The result is less bias, and thus fewer detrimental choices.</p>
-</td>
-<td>
+</div>
+<div class="triplet">
 <h2>Elucidation</h2>
 
 <p>Decisions are powered by knowledge.</p>
@@ -25,8 +24,8 @@
 <p>Knola eliminates the consequences of ignorance by conjoining power and information. As a proposal forms, participants help identify the most important questions. Then researchers collaborate to gather and verify facts, analysts compete to produce the best predictions, and presenters vie to summarize with least bias.</p>
 
 <p>This shifts power from provocation to experience. The result is enlightened, rational participants, and wise choices.</p>
-</td>
-<td>
+</div>
+<div class="triplet">
 <h2>Invention</h2>
 
 <p>Evolution strengthens the ideas behind decisions.</p>
@@ -36,10 +35,8 @@
 <p>With Knola decisions draw on creativity from a much larger group of people, including both regular participants and specialists who focus on refining ideas in difficult areas. Participants provide their concerns and ideas for each proposal. If a proposal is unsuccessful, designers can use this information to devise a more popular revision.</p>
 
 <p>Over time, this refinement process eventually produces downright ingenious ideas.</p> 
-</td>
-</tr>
-<tr>
-<td>
+</div>
+<div class="triplet">
 <h2>Proximity</h2>
 
 <p>Decisions are made by those impacted.</p>
@@ -49,8 +46,8 @@
 <p>Knola offers tools to fix this, allowing the scope and weight of relevant opinions to be determined for each decision. So the significantly impacted people carry the most influence, although indirectly affected people also contribute proportional input.</p>
 
 <p> The result is consistently humane decisions, which balance the interests of fractions and the whole.</p>
-</td>
-<td>
+</div>
+<div class="triplet">
 <h2>Advancement</h2>
 
 <p>Predictions grow smarter over time.</p>
@@ -60,16 +57,15 @@
 <p>Knola fosters an ecosystem of smart people vying to produce the most accurate forecasts. For a proposal, potentially many forecasters register predictions of the impact. Knola summaries highlight the forecasters with strong track records, meaning those who techniques proved trustworthy in a variety of previous proposals. Knola also incentivizes forecasters to develop accurate models by rewarding correct predictions, using a small portion of the budget assigned to successful proposals.</p>
 
 <p>The result is prescient decisions, and far fewer regrets.</p>
-</td>
-<td>
+</div>
+<div class="triplet">
 <h2>Verifiability</h2>
 
 <!--
 The community can see the process is working as intended, reproduce results with fresh groups of participants if desired.
 -->
-</td>
-</tr>
-</table>
+</div>
+</div>
 
 <!--
 Possible other principles:

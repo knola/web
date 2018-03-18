@@ -111,6 +111,20 @@ table {
   font-weight: bold;
 }
 
+.flex {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.triplet {
+  max-width: 370px;
+  min-width: 250px;
+  flex: 1 1 30%;
+  padding: 10px;
+  border-top: 1px solid #dddddd;
+}
+
 .table-bordered {
   border: 1px solid #dddddd;
   border-collapse: separate;
