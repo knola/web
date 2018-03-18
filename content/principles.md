@@ -61,9 +61,15 @@
 <div class="triplet">
 <h2>Verifiability</h2>
 
-<!--
-The community can see the process is working as intended, reproduce results with fresh groups of participants if desired.
--->
+<p>Mistakes are easily caught and corrected.</p>
+
+<p>Contemporary democracies are poorly protected from bogus perceptions. In both elections and legislatures, voting doesn't capture rationale, so it's difficult to know if results were based on misinformation. Even when the reasons can be found false, repairing the law is still a long, arduous struggle.</p>
+
+<p>With Knola, bad decisions are easily overturned. Except for anonymizing input from participants, all of the raw data is perpetually publicly available. This includes facts and predictions provided to participants, and their detailed thoughts before and after the presentation.</p>
+
+<p>So anyone can undertake to check a particular decision. If the facts are found to be wrong or incomplete, the decision is invalidated and the process reopens with new participants.</p>
+
+<p>This eliminates any motivation for tampering, and eventually results in unassailable decisions.</p>
 </div>
 </div>
 
