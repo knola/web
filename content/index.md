@@ -2,7 +2,7 @@
 
 <p class="tagline">_Directness for Democracy_</p>
 
-[Principles](./principles) &middot; [Process](./process) &middot; [Microdemocracy](./microdemocracy) &middot; [FAQ](./faq)
+[Principles](./principles) &middot; [Process](./process) &middot; [Roles](./roles) &middot; [Microdemocracy](./microdemocracy) &middot; [FAQ](./faq)
 
 Knola aspires to empower groups to make smarter, faster decisions. We are a group of volunteers, performing experiments in the field of _decision technology_, and building tools to help groups replicate successful processes.
 
@@ -12,7 +12,6 @@ If this is interesting, email [team@knola.co](mailto:team@knola.co) to join the 
 
 <!--
 Documentation TODOs:
-- Roles
 - More complete example
 - Evaluator input
 - Combating implicit bias

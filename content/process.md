@@ -2,7 +2,7 @@
 
 # Decision Process
 
-Knola facilitates a process for converting proposals into decisions. Throughout the process, Knola connects participants and supports their work.
+Knola facilitates a process for converting proposals into decisions. Throughout the process, Knola connects [participants](roles) and supports their work.
 
 <div class="flex">
 <div class="doublet">
