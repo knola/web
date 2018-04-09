@@ -34,7 +34,7 @@ An heirloom democracy is one whose foundations were designed before modern techn
 
 ### How much work is required for a typical person?
 
-The most common role is a _participant_, which is similar to a voter. Tentatively we expect participants to spend about 30 minutes per month, on one topic. This time includes 15 minutes consuming a presentation, and 15 minutes answering questions.
+The most common role is a _evaluator_, which is similar to a voter. Tentatively we expect evaluators to spend about 30 minutes per month, on one topic. This time includes 15 minutes consuming a presentation, and 15 minutes answering questions.
 
 ## Intentions
 
