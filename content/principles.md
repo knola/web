@@ -12,7 +12,7 @@
 
 <p>In heirloom democracies, campaign finance pressure creates perverse incentives for candidates, and makes them vulnerable to influence from lobbyists. Meanwhile news media drives focus to sensational topics and away from important, but boring issues. The result is biased decisions, leaving voters with a persistent feeling of frustration.</p>
 
-<p>Knola achieves authenticity by unlocking direct input. Every participant contributes to a random selection of decisions. So each decision consists of a natural cross-section of people's motivations. This structure naturally resists influence from politics and lobbying.</p>
+<p>Knola achieves authenticity by collecting direct input from group members. Every participant contributes to a random selection of decisions. So each decision consists of a natural cross-section of people's motivations. This structure naturally resists influence from politics and lobbying.</p>
 
 <p>This shifts power from legislators to their constituents. The result is less bias, and thus fewer detrimental choices.</p>
 </div>
