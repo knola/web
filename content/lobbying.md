@@ -4,7 +4,7 @@
 
 ## How does Knola resist influence from lobbying?
 
-Lobbyists work by a simple formula: find powerful people, and influence them. In heirloom democracies, finding powerful people is easy. Elected officials are public, meaning they are highly visible and easily contacted.
+Lobbying is a strategy of special interest groups, and works by a simple formula: find powerful people, and influence them. In heirloom democracies, finding powerful people is easy. Elected officials are public, meaning they are highly visible and easily contacted.
 
 They're also easily influenced. Elections are largely decided by campaign financing, so candidates that refuse lobby money are doomed to be outspent. Only the most secure incumbents can survive in office without a relationship with lobbies. 
 
