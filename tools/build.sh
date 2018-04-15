@@ -30,6 +30,7 @@ for file in content/*.md; do
   ln $doc _public/$base 
 done
 
-ln content/logo.svg _public/_resources/logo.svg 
-ln content/style.css _public/_resources/style.css
+ln content/logo.svg _public/_resources/
+ln content/logo-color.svg _public/_resources/
+ln content/style.css _public/_resources/
 ln app.yaml _public/app.yaml

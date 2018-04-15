@@ -1,12 +1,11 @@
+html {
+  color: #006060;
+}
+
 a:focus {
   outline: thin dotted #333;
   outline: 5px auto -webkit-focus-ring-color;
   outline-offset: -2px;
-}
-
-a:hover,
-a:active {
-  outline: 0;
 }
 
 img {
@@ -16,6 +15,7 @@ img {
   vertical-align: middle;
   border: 0;
   -ms-interpolation-mode: bicubic;
+  margin: 10px 0;
 }
 
 body {
@@ -23,16 +23,16 @@ body {
   font-family: Palatino, Georgia, "Times New Roman", Times, serif;
   font-size: 1.0625em;
   line-height: 1.4em;
-  color: #282828;
-  background-color: #fafdfa;
+  background-color: #f6fdf6;
 }
 
 a {
-  color: #9c0001;
+  color: #808000;
 }
 
 a:hover {
-  color: #c50001;
+  color: #a0a000;
+  text-decoration: none;
 }
 
 .container,
@@ -66,17 +66,14 @@ strong {
 }
 
 h1 {
-  margin: 0.7em 0;
+  margin: 15px 0;
+  line-height: 40px;
+  font-size: 2.5em;
   font-family: inherit;
   font-weight: bold;
   line-height: 1;
   color: inherit;
   text-rendering: optimizelegibility;
-}
-
-h1 {
-  font-size: 36px;
-  line-height: 40px;
 }
 
 table {
@@ -178,14 +175,7 @@ table {
   min-height: 50px;
   padding-left: 20px;
   padding-right: 20px;
-  background-color: #fafdfa;
-  background-image: -moz-linear-gradient(top, #fafdfa, #fafdfa);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fafdfa), to(#fafdfa));
-  background-image: -webkit-linear-gradient(top, #fafdfa, #fafdfa);
-  background-image: -o-linear-gradient(top, #fafdfa, #fafdfa);
-  background-image: linear-gradient(to bottom, #fafdfa, #fafdfa);
-  background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffafdfa', endColorstr='#fffafdfa', GradientType=0);
+  background-color: #ebf8eb;
   border: 1px solid #ceecce;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -216,14 +206,10 @@ table {
   display: block;
   padding: 24.3px 20px 24.3px;
   margin-left: -20px;
-  font-size: 20px;
-  font-weight: 200;
-  color: #282828;
-  text-shadow: 0 1px 0 #fafdfa;
-}
-
-.navbar .brand:hover {
-  text-decoration: none;
+  font-size: 1.4em;
+  font-weight: 400;
+  color: #006060;
+  text-shadow: 0 1px 0 #f6fdf6;
 }
 
 .navbar-fixed-top {
@@ -264,10 +250,6 @@ body {
   word-spacing: -0.05em;
 }
 
-h1 {
-  font-size: 2.5em;
-}
-
 .navbar .brand {
   font-weight: bold;
   line-height: 1em;
@@ -275,7 +257,7 @@ h1 {
 }
 
 .navbar .brand:hover {
-  color: #c50001;
+  color: #009090;
 }
 
 .table-bordered {
@@ -298,14 +280,6 @@ body {
 
 #content {
   margin-top: 40px;
-}
-
-h1 {
-  margin: 15px 0;
-}
-
-img {
-  margin: 10px 0;
 }
 
 .navbar {
