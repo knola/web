@@ -32,5 +32,6 @@ done
 
 ln content/logo.svg _public/_resources/
 ln content/logo-color.svg _public/_resources/
+ln content/favicon.png _public/_resources/
 ln content/style.css _public/_resources/
 ln app.yaml _public/app.yaml
