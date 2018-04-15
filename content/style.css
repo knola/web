@@ -204,12 +204,16 @@ table {
 .navbar .brand {
   float: left;
   display: block;
-  padding: 24.3px 20px 24.3px;
   margin-left: -20px;
   font-size: 1.4em;
-  font-weight: 400;
   color: #006060;
   text-shadow: 0 1px 0 #f6fdf6;
+  line-height: 1em;
+  padding: 15px 15px 7px;
+}
+
+.navbar .brand:hover {
+  color: #009090;
 }
 
 .navbar-fixed-top {
@@ -248,16 +252,6 @@ table {
 
 body {
   word-spacing: -0.05em;
-}
-
-.navbar .brand {
-  font-weight: bold;
-  line-height: 1em;
-  padding: 15px 15px 7px;
-}
-
-.navbar .brand:hover {
-  color: #009090;
 }
 
 .table-bordered {
