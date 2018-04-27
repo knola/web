@@ -8,7 +8,7 @@ Knola aspires to empower groups to make smarter, faster decisions. We are a band
 
 Groups range from large to small: governments and communities, businesses and cooperatives, teams and families. If our work is successful, decision technology could contribute to every decision from your next President to your next vacation.
 
-If this is interesting, email [team@knola.co](mailto:team@knola.co) to join the discussion.
+If this is interesting, [let's chat](contact).
 
 <!--
 Documentation TODOs:

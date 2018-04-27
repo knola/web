@@ -18,7 +18,7 @@ Currently it's a unincorporated nonprofit association.
 
 ### How can I contact you?
 
-Please just email us at [team@knola.co](mailto:team@knola.co).
+[Here](contact).
 
 ## Terminology
 
@@ -54,9 +54,9 @@ No. We do not condone violence, nor a rapid reallocation of power that would put
 
 ### How can I help?
 
-If you have more than a four hours per week to offer, join our team! Start by sending an email to [team@knola.co](mailto:team@knola.co) describing your skills and interests, and we'll work out an arrangement.
+If you have more than a four hours per week to offer, join our team! Start by [contacting us](contact) with a description of your skills and interests, and we'll work out an arrangement.
 
-If you live in the San Francisco Bay Area, and know about a local issue needing more attention, please email a description to [team@knola.co](mailto:team@knola.co). We plan to do a trial-run of our process soon, and need to find a good idea for our initial proposal.
+If you live in the San Francisco Bay Area, and know about a local issue needing more attention, please [send us](contact) a description. We plan to do a trial-run of our process soon, and need to find a good idea for our initial proposal.
 
 Otherwise, you can register as a participant, and soon possibly help us make our first decision. See the question below.
 
@@ -66,13 +66,13 @@ TODO(cody): uncomment this once we publish some resources potentially useful for
 
 ### Can anyone join in experiment development?
 
-Yes! Please just contact us at [team@knola.co](mailto:team@knola.co) to discuss. All of Knola's works are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), so you can reuse content even commercially.
+Yes! Please just [contact us](contact) to discuss. All of Knola's works are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), so you can reuse content even commercially.
 
 -->
 
 ### How can I register as a participant?
 
-Send an email to [team@knola.co](mailto:team@knola.co) from your desired contact address, and we'll contact you when we start running deliberations.
+Simply [email us](contact) from your desired contact address, and we'll contact you when we start running deliberations.
 
 ## Alternatives
 

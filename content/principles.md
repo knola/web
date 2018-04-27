@@ -80,4 +80,4 @@ Possible other principles:
 Experimentation
 -->
 
-Please contact [team@knola.co](mailto:team@knola.co) with comments or questions.
+Please [contact us](contact) with comments or questions.
