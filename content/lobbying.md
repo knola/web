@@ -1,5 +1,3 @@
-[&larr; back to Knowledge Labs](.)
-
 # Lobbying
 
 ## How does Knola resist influence from lobbying?

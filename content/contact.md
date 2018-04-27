@@ -1,5 +1,3 @@
-[&larr; back to Knowledge Labs](.)
-
 # Let's Chat
 
 If you have questions, reflections, suggestions, or discoveries, we'd love to hear from you. We're currently small enough that we funnel all communication through one email list, [team@knola.co](mailto:team@knola.co).

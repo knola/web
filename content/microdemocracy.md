@@ -1,5 +1,3 @@
-[&larr; back to Knowledge Labs](.)
-
 # Microdemocracy
 
 Microdemocracy is a system applying Knola techniques at the national level. As we refine the system, we will assign different version numbers. Currently we're working on version 2018.01.

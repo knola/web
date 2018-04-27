@@ -1,5 +1,3 @@
-[&larr; back to Knowledge Labs](.)
-
 # Decision Roles
 
 Each deliberation using Knola's [process](process) has people participating in six primary roles.

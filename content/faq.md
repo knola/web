@@ -1,5 +1,3 @@
-[&larr; back to Knowledge Labs](.)
-
 # Frequently Asked Questions
 
 ## Organization

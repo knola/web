@@ -1,5 +1,3 @@
-[&larr; back to Knowledge Labs](.)
-
 # Principles
 
 <p>Six crucial elements characterize the Knola decision process. Some occur in existing governments, but are not emphasized as principles. In the descriptions below, _heirloom democracies_, _elections_, and _legislators_ refer to contemporary governments, particularly patterns of democracy common in developed countries. These are not present in the Knola model, and are described here purely to contrast the present with the proposed future.</p>

@@ -1,5 +1,3 @@
-[&larr; back to Knowledge Labs](.)
-
 # Decision Process
 
 Knola facilitates a process for converting proposals into decisions. Throughout the process, Knola connects [participants](roles) and supports their work.
